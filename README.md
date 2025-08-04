@@ -7,9 +7,10 @@
 - 💬 Experiência com consumo de API e vercionamento GIT no desenvolvimento mobile com React Native.
 - 📖 Desenvolvimento web Python e JavaScript, além de conhecimentos em frameworks web como React e mobile com React Native.
 - 😄 Estudando Back-end com MySQL.
+  
 - 📫 Contate-me no email: harianjjudson4@gmail.com
 - 📩 Linkedin: https://www.linkedin.com/in/harianjudson/
-- 
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=harianjj&show_icons=true&theme=dark"

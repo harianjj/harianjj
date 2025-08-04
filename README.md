@@ -1,5 +1,6 @@
 ## Olá, Eu sou Harian Judson
 
+- 😁 Busco uma oportunidade de estágio para aplicar meus conhecimentos e contribuir ativamente com a equipe, desenvolvendo minhas habilidades em um ambiente inovador e desafiador.
 - 🔭 Sou Bacharel em Ciências e Tecnologia pela UFRN (C&T).
 - 🌱 Estou cursando Técnologo em Sistemas para Internet no IFRN/ZL (TSI).
 - ⚡ Tenho capacitação profissional em Sistemas Embarcados pelo IFMA.
@@ -8,8 +9,6 @@
 - 😄 Estudando Back-end com MySQL.
 - 📫 Contate-me no email: harianjjudson4@gmail.com
 - 📩 Linkedin: https://www.linkedin.com/in/harianjudson/
-
-- 😁 Busco uma oportunidade de estágio para aplicar meus conhecimentos e contribuir ativamente com a equipe, desenvolvendo minhas habilidades em um ambiente inovador e desafiador.
 - 
 <picture>
   <source
